@@ -1,3 +1,3 @@
-module github.com/rfist/ffs
+module github.com/wimcraft/ffs
 
 go 1.20
